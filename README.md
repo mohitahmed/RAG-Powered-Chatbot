@@ -1,4 +1,6 @@
 # recipe-guide-LLM
+##About
+A retrieval augmented generation powered recipe chatbot using Google Gemini and streamlit for user interface.
 
 ## Prerequisites
 
